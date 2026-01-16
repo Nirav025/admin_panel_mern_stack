@@ -1,4 +1,4 @@
-# 🛒 MERN Admin Dashboard – Product Management System
+# 🛒 MERN Admin Dashboard – Admin Panel
 
 This project is a **full-stack Admin Dashboard application** built using the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
 It allows admins to **manage categories, subcategories, and products**, including **product image upload, update, and removal**, along with a **dashboard that displays overall statistics**.
