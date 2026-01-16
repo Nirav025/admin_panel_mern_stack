@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "id": "9776",
+      "name": "Electronics",
+      "createdAt": "11/3/2025, 10:58:30 AM",
+      "updatedAt": "11/3/2025, 1:27:38 PM"
+    },
+    {
+      "id": "5357",
+      "name": "Clothes",
+      "createdAt": "11/3/2025, 1:44:54 PM",
+      "updatedAt": "11/4/2025, 12:51:09 PM"
+    }
+  ],
+  "subCategories": [
+    {
+      "id": "cd60",
+      "categoryName": "Electronics",
+      "name": "SmartPhone",
+      "createdAt": "11/3/2025, 10:58:51 AM",
+      "updatedAt": null
+    },
+    {
+      "id": "ce61",
+      "categoryName": "Electronics",
+      "name": "Laptops",
+      "createdAt": "11/3/2025, 10:59:09 AM",
+      "updatedAt": null
+    },
+    {
+      "id": "62ce",
+      "categoryName": "Clothes",
+      "name": "Men",
+      "createdAt": "11/3/2025, 1:45:24 PM",
+      "updatedAt": "11/4/2025, 12:51:24 PM"
+    },
+    {
+      "id": "bf95",
+      "categoryName": "Clothes",
+      "name": "Women",
+      "createdAt": "11/4/2025, 12:51:38 PM",
+      "updatedAt": null
+    },
+    {
+      "id": "71ad",
+      "categoryName": "Clothes",
+      "name": "Kids",
+      "createdAt": "11/4/2025, 12:51:44 PM",
+      "updatedAt": null
+    }
+  ],
+  "products": [
+    {
+      "id": "4b01",
+      "categoryName": "Electronics",
+      "subcategoryName": "SmartPhone",
+      "name": "Nokia 3100",
+      "price": "5500",
+      "createdAt": "11/3/2025, 10:59:50 AM",
+      "updatedAt": null
+    },
+    {
+      "id": "0d87",
+      "categoryName": "Electronics",
+      "subcategoryName": "SmartPhone",
+      "name": "iPhone 17 Pro Max",
+      "price": "149000",
+      "createdAt": "11/3/2025, 11:01:19 AM",
+      "updatedAt": null
+    },
+    {
+      "id": "90e8",
+      "categoryName": "Electronics",
+      "subcategoryName": "Laptops",
+      "name": "Dell Latitude",
+      "price": "50000",
+      "createdAt": "11/3/2025, 11:02:26 AM",
+      "updatedAt": null
+    }
+  ]
+}
